@@ -19,3 +19,4 @@ this is for verifying all the team 100 laptops git setup
 * commit from PGM.TPT-2
 * commit from cien
 * commit from CAD.TPW-2
+* commit from CAD.DLP-5
