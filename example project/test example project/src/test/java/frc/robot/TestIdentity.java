@@ -16,6 +16,7 @@ public class TestIdentity {
         assertEquals("PGM.TPW-4", Robot.identity("PGM.TPW-4"));
         assertEquals("PGM.TPW-2", Robot.identity("PGM.TPW-2"));
         assertEquals("CAD.DLP-2", Robot.identity("CAD.DLP-2"));
+        assertEquals("CAD.DLL-2", Robot.identity("CAD.DLL-2"));
 
     }
 }
