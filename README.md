@@ -14,3 +14,4 @@ this is for verifying all the team 100 laptops git setup
 * commit from CAD-DLL-2
 * commit from DVS-TPW-1
 * commit from PGM.DLP-3
+* commit from PGM-TPT-1
