@@ -15,3 +15,4 @@ this is for verifying all the team 100 laptops git setup
 * commit from DVS-TPW-1
 * commit from PGM.DLP-3
 * commit from TP-20
+* commit from PGM-TPT-1
