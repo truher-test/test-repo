@@ -10,3 +10,4 @@ this is for verifying all the team 100 laptops git setup
 * commit from PGM.TPW-3
 * commit from PGM.TPT-4
 * commit from cadmium
+* commit from pit display
