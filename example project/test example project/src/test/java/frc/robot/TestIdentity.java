@@ -6,5 +6,6 @@ public class TestIdentity {
     @Test
     public void testOne() {
         assertEquals("DVS.TPW-1", Robot.identity("DVS.TPW-1"));
+        assertEquals("PGM.TPT-1", Robot.identity("PGM.TPT-1"));
     }
 }
